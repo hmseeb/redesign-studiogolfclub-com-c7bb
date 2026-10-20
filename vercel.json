@@ -1,0 +1,184 @@
+{
+  "redirects": [
+    {
+      "source": "/membership-info",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/membership-info/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/scottsdale/booking",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/scottsdale/booking/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/san-diego/booking",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/san-diego/booking/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/south-bay/booking",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/south-bay/booking/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/el-paso/booking",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/el-paso/booking/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/membership/scottsdale",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/membership/scottsdale/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/membership/san-diego",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/membership/san-diego/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/membership/south-bay",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/membership/south-bay/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/membership/el-paso",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/membership/el-paso/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/evan-twombly",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/evan-twombly/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/connor-johnson",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/connor-johnson/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/alex-shattuck",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/alex-shattuck/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/lincoln-lyles",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/lincoln-lyles/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/jake-herman",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/jake-herman/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/mark-gonzalez",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/mark-gonzalez/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/austin-lindzy",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/austin-lindzy/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/chris-lopez",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-team/chris-lopez/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/review",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/review/",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
